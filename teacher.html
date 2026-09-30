@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
     <title>День учителя</title>
-    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/assets/promo/teacher/css/teacher.css?id=58e2be2c0f0285fdf1af32ee8d5a3d50">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/promo/teacher/css/teacher.css?id=58e2be2c0f0285fdf1af32ee8d5a3d50">
     <!-- Yandex.Metrika counter -->
 <script type="text/javascript">
     (function(m,e,t,r,i,k,a){
@@ -791,9 +791,7 @@
         var sum = f.querySelector('input[name="payment"]:checked') ? f.querySelector('input[name="payment"]:checked').value : '500';
         var custom = f.querySelector('input[name="payment-donation"]');
         if (custom && custom.value) sum = custom.value;
-        alert('Демонстрационный режим: Форма пожертвования работает корректно!
-Выбранная сумма: ' + sum + ' ₽.
-В настоящем сайте здесь открывается платежный шлюз CloudPayments.');
+        alert('Демонстрационный режим: Форма пожертвования работает корректно!\\nВыбранная сумма: ' + sum + ' ₽.\\nВ настоящем сайте здесь открывается платежный шлюз CloudPayments.');
       });
     });
   });

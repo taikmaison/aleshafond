@@ -30,7 +30,7 @@
     <meta name="format-detection" content="telephone=no">
 
     <link rel="apple-touch-icon" href="assets/img/logo512.png">
-    <link rel="manifest" href="//cdn.aleshafond.ru/assets/manifest.json?v5">
+    <link rel="manifest" href="assets/manifest.json?v5">
 
     <link href="assets/css/main.css" rel="stylesheet">
 
@@ -3550,9 +3550,7 @@ margin: 0 0 0 30px;">ОК</a>
         var sum = f.querySelector('input[name="payment"]:checked') ? f.querySelector('input[name="payment"]:checked').value : '500';
         var custom = f.querySelector('input[name="payment-donation"]');
         if (custom && custom.value) sum = custom.value;
-        alert('Демонстрационный режим: Форма пожертвования работает корректно!
-Выбранная сумма: ' + sum + ' ₽.
-В настоящем сайте здесь открывается платежный шлюз CloudPayments.');
+        alert('Демонстрационный режим: Форма пожертвования работает корректно!\\nВыбранная сумма: ' + sum + ' ₽.\\nВ настоящем сайте здесь открывается платежный шлюз CloudPayments.');
       });
     });
   });

@@ -1,0 +1,24 @@
+{
+  "name": "Благотворительный фонд Алёша",
+  "short_name": "БФ Алёша",
+  "orientation": "portrait",
+  "background_color": "#fff",
+  "theme_color": "#05affa",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/?from=homescreen",
+  "icons": [
+    {
+      "src": "/assets/img/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/assets/img/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable any"
+    }
+  ]
+}
