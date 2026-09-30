@@ -2,9 +2,9 @@
   "name": "aleshafond-clone",
   "version": "1.0.0",
   "description": "Демонстрационная копия сайта aleshafond.ru",
-  "main": "serve.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node serve.js"
+    "start": "node server.js"
   },
   "engines": {
     "node": ">=18.0.0"
