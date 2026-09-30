@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="12px" viewBox="0 0 8 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="!-15-p_press-about-us" transform="translate(-672.000000, -244.000000)" fill="#FFFFFF">
+            <g id="press" transform="translate(80.000000, 112.000000)">
+                <g id="line-1" transform="translate(0.000000, 80.000000)">
+                    <g id="2" transform="translate(320.000000, 0.000000)">
+                        <g id="redirect" transform="translate(264.000000, 0.000000)">
+                            <path d="M15.9509501,57.7929468 C15.9180095,57.726888 15.8689348,57.6646826 15.8030536,57.6107346 L9.14838281,52.1614313 C8.88553037,51.9461896 8.45931951,51.9461896 8.19713933,52.1614313 C7.93428689,52.3761225 7.93428689,52.7245828 8.19713933,52.9398245 L14.3771968,57.9999312 L8.19713933,63.0600378 C7.93495915,63.2752795 7.93495915,63.6242904 8.19713933,63.8389816 C8.45931951,64.0536728 8.88553037,64.0536728 9.14838281,63.8389816 L15.8030536,58.3891278 C16.0000249,58.2283847 16.0490996,57.9916738 15.9509501,57.7929468" id="icon"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

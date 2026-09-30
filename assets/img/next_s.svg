@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="8px" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2_1.3-d_one-kid" transform="translate(-106.000000, -557.000000)" fill="#727272" stroke="#FFFFFF" stroke-width="0.5">
+            <g id="left" transform="translate(56.000000, 128.000000)">
+                <g id="preview">
+                    <g id="next_hide-until-hover" transform="translate(40.000000, 416.000000)">
+                        <path d="M13.9688522,17 L19,17 C19.5522847,17 20,17.4477153 20,18 C20,18.5522847 19.5522847,19 19,19 L13,19 C12.4477153,19 12,18.5522847 12,18 C12,17.9141754 12.0108118,17.830876 12.0311478,17.7513896 L12.0311478,11.9688522 C12.0311478,11.4337699 12.4649177,11 13,11 C13.5350823,11 13.9688522,11.4337699 13.9688522,11.9688522 L13.9688522,17 Z" id="Combined-Shape" transform="translate(16.000000, 15.000000) scale(-1, 1) rotate(-45.000000) translate(-16.000000, -15.000000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

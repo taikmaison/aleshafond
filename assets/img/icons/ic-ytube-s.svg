@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="20px" viewBox="0 0 28 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>hover</title>
+    <desc>Created with Sketch.</desc>
+    <g id="cards-symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="footer:-d" transform="translate(-1128.000000, -150.000000)" fill-rule="nonzero">
+            <g id="follow-us" transform="translate(983.000000, 45.000000)">
+                <g id="2-icons" transform="translate(0.000000, 103.000000)">
+                    <g id="youtube" transform="translate(145.000000, 2.000000)">
+                        <g id="hover">
+                            <path d="M27.4,3.1 C27.1,1.9 26.1,0.9 24.9,0.6 C22.8,0 14,0 14,0 C14,0 5.2,0 3.1,0.6 C1.9,0.9 0.9,1.9 0.6,3.1 C0,5.2 0,9.8 0,9.8 C0,9.8 0,14.4 0.6,16.5 C0.9,17.7 1.9,18.7 3.1,19 C5.2,19.6 14,19.6 14,19.6 C14,19.6 22.8,19.6 24.9,19 C26.1,18.7 27.1,17.7 27.4,16.5 C28,14.4 28,9.8 28,9.8 C28,9.8 28,5.2 27.4,3.1 Z" id="Path" fill="#17183B"></path>
+                            <polygon id="Path" fill="#FFFFFF" points="11.2 14 18.5 9.8 11.2 5.6"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
