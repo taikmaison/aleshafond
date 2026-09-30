@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: aleshafond-demo
+    runtime: node
+    plan: free
+    buildCommand: ""
+    startCommand: node serve.js
+    envVars:
+      - key: NODE_VERSION
+        value: 20

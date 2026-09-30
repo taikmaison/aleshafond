@@ -71,9 +71,9 @@ const server = http.createServer((req, res) => {
   });
 });
 
-server.listen(PORT, () => {
+server.listen(PORT, '0.0.0.0', () => {
   console.log(`==================================================`);
   console.log(`  AleshaFond.ru Clone Server is running!`);
-  console.log(`  URL: http://localhost:${PORT}`);
+  console.log(`  URL: http://0.0.0.0:${PORT}`);
   console.log(`==================================================`);
 });
